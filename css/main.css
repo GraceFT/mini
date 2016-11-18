@@ -1,5 +1,4 @@
 *{
-
 }
 /*--------------------------HEADER------------------------*/
 header {
@@ -54,6 +53,9 @@ section .block1, .block2, .block3, .block4 {
     color: #ccc;
     padding: 15px 20px;
 }
+section img{
+    width: 100%
+}
 section h1{
    color: #8e7a7a;
 }
@@ -62,6 +64,9 @@ section .img{
     height: 300px;
     background: #ccc;
     margin: auto;
+}
+section img{
+    padding: 5px;
 }
 section .block1, .block3{
     margin-left: 140px;
